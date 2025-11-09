@@ -1,1 +1,55 @@
 @import "tailwindcss";
+/* @import "../tailwind/theme.css"; */
+
+/* Custom utility classes using your theme variables
+.bg-primary-500 {
+  background-color: rgb(var(--color-primary-500));
+}
+
+.text-primary-500 {
+  color: rgb(var(--color-primary-500));
+}
+
+.border-primary-500 {
+  border-color: rgb(var(--color-primary-500));
+}
+
+.bg-secondary-500 {
+  background-color: rgb(var(--color-secondary-500));
+}
+
+.text-secondary-500 {
+  color: rgb(var(--color-secondary-500));
+}
+
+.bg-accent-500 {
+  background-color: rgb(var(--color-accent-500));
+}
+
+.text-accent-500 {
+  color: rgb(var(--color-accent-500));
+}
+
+.p-xs { padding: var(--spacing-xs); }
+.p-sm { padding: var(--spacing-sm); }
+.p-md { padding: var(--spacing-md); }
+.p-lg { padding: var(--spacing-lg); }
+.p-xl { padding: var(--spacing-xl); }
+.p-2xl { padding: var(--spacing-2xl); }
+
+.m-xs { margin: var(--spacing-xs); }
+.m-sm { margin: var(--spacing-sm); }
+.m-md { margin: var(--spacing-md); }
+.m-lg { margin: var(--spacing-lg); }
+.m-xl { margin: var(--spacing-xl); }
+.m-2xl { margin: var(--spacing-2xl); }
+
+.rounded-xs { border-radius: var(--border-radius-xs); }
+.rounded-sm { border-radius: var(--border-radius-sm); }
+.rounded-md { border-radius: var(--border-radius-md); }
+.rounded-lg { border-radius: var(--border-radius-lg); }
+.rounded-xl { border-radius: var(--border-radius-xl); }
+
+.font-sans { font-family: var(--font-family-sans); }
+.font-serif { font-family: var(--font-family-serif); }
+.font-mono { font-family: var(--font-family-mono); } */
